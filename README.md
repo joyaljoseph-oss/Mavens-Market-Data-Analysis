@@ -52,7 +52,7 @@ The goal is to transform retail data into clear and interactive visualizations t
 
 ## 6. Screenshots 
 
-
+https://github.com/joyaljoseph-oss/Mavens-Market-Data-Analysis/blob/main/Snapshot%20of%20Mavens%20Market.png.png
 
 ## 👨‍💻 Author
 
